@@ -3,7 +3,7 @@
 ## Table of Contents
 
 ### [Title Page](./Title_Page.md)
-### Dedication
+### [Dedication](./Dedication.md)
 ### Indroduction
 ### Two Diamonds Touching
 ### Falling in Love
