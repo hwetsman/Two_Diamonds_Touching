@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[### Title Page](./Title_Page.md)
+### [Title Page](./Title_Page.md)
 ### Dedication
 ### Indroduction
 ### Two Diamonds Touching
