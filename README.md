@@ -7,7 +7,7 @@
 ### [Introduction](./Introduction.md)
 ### [Two Diamonds Touching](./TwoDiamondsTouching.md)
 ### [Falling in Love](./FallingInLove.md)
-### Loving
+### [Loving](./Loving.md)
 ### The Consequences of Standing Still
 ### Learning to be Empty
 ### Emptiness Meditation
