@@ -4,7 +4,7 @@
 
 ### [Title Page](./Title_Page.md)
 ### [Dedication](./Dedication.md)
-### Indroduction
+### [Introduction](./Introduction.md)
 ### Two Diamonds Touching
 ### Falling in Love
 ### Loving
