@@ -8,7 +8,7 @@
 ### [Two Diamonds Touching](./TwoDiamondsTouching.md)
 ### [Falling in Love](./FallingInLove.md)
 ### [Loving](./Loving.md)
-### The Consequences of Standing Still
+### [The Consequences of Standing Still](./TheConsequencesofStandingStill.md)
 ### Learning to be Empty
 ### Emptiness Meditation
 ### What if My Partner Won't...
