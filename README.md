@@ -5,7 +5,7 @@
 ### [Title Page](./Title_Page.md)
 ### [Dedication](./Dedication.md)
 ### [Introduction](./Introduction.md)
-### Two Diamonds Touching
+### [Two Diamonds Touching](./TwoDiamondsTouching.md)
 ### Falling in Love
 ### Loving
 ### The Consequences of Standing Still
