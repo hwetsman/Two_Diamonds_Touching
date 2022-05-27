@@ -1,3 +1,5 @@
+## Avoinding Affairs Meditation
+
 Again, start in a quiet safe place. Of
 course, with more practice you'll be able to
 do this anywhere almost instantly with just
