@@ -16,4 +16,4 @@
 ### [Seeds and Longing](./Seeds_and_Longing.md)
 ### [Avoiding Affairs Meditation](./Avoiding_affairs.md)
 ### [Good-bye](./Good-bye.md)
-### Acknowledgements
+### [Acknowledgements](./Acknowledgements.md)
