@@ -14,6 +14,6 @@
 ### [What if My Partner Won't...](./What_if.md)
 ### [The Promise of Affairs](./The_promise.md)
 ### [Seeds and Longing](./Seeds_and_Longing.md)
-### Avoiding Affairs Meditation
+### [Avoiding Affairs Meditation](./Avoiding_affairs.md)
 ### Good-bye
 ### Acknowledgements
