@@ -12,7 +12,7 @@
 ### [Learning to be Empty](./LearningtobeEmpty.md)
 ### [Emptiness Meditation](./Emptiness_Meditation.md)
 ### [What if My Partner Won't...](./What_if.md)
-### The Promise of Affairs
+### [The Promise of Affairs](./The_promise.md)
 ### Seeds and Longing
 ### Avoiding Affairs Meditation
 ### Good-bye
